@@ -1,4 +1,4 @@
-## 🛠️ Installation
+# 🛠️ Installation
 
 ```shell
 git clone https://github.com/chaozwn/yabai.git ~/.config/yabai
