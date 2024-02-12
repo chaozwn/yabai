@@ -7,6 +7,7 @@ git clone https://github.com/chaozwn/yabai.git ~/.config/yabai
 ## Install yabai
 ```shell
 brew install koekeishiya/formulae/yabai
+brew install jq
 ```
 
 ## Start yabai
