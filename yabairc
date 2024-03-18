@@ -45,6 +45,9 @@ yabai -m rule --add app="^App Store$" manage=off
 # yabai -m rule --add app="^Discord$" space=7 grid=1:1:0:0:1:1 manage=off
 # yabai -m rule --add label="EventViewer" app="EventViewer" manage=off
 yabai -m rule --add app="^Finder$" manage=off
+yabai -m rule --add app="^QQ$" manage=off
+yabai -m rule --add app="^Microsoft Outlook$" manage=off
+yabai -m rule --add app="^Microsoft Teams" manage=off
 # yabai -m rule --add label="GoldenDict" app="GoldenDict" manage=off space=main
 # yabai -m rule --add label="KakaoTalk" app="KakaoTalk" manage=off space=main
 # yabai -m rule --add label="kitty" app="kitty" manage=off
