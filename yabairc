@@ -48,6 +48,8 @@ yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^QQ$" manage=off
 yabai -m rule --add app="^Microsoft Outlook$" manage=off
 yabai -m rule --add app="^Microsoft Teams" manage=off
+yabai -m rule --add app="translate" manage=off
+yabai -m rule --add app="System Settings" manage=off
 # yabai -m rule --add label="GoldenDict" app="GoldenDict" manage=off space=main
 # yabai -m rule --add label="KakaoTalk" app="KakaoTalk" manage=off space=main
 # yabai -m rule --add label="kitty" app="kitty" manage=off
