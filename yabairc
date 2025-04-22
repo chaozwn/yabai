@@ -46,8 +46,8 @@ yabai -m rule --add app="^App Store$" manage=off
 # yabai -m rule --add label="EventViewer" app="EventViewer" manage=off
 yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^QQ$" manage=off
-yabai -m rule --add app="^Microsoft Outlook$" manage=off
-yabai -m rule --add app="^Microsoft Teams" manage=off
+# yabai -m rule --add app="^Microsoft Outlook$" manage=off
+# yabai -m rule --add app="^Microsoft Teams" manage=off
 yabai -m rule --add app="translate" manage=off
 yabai -m rule --add app="System Settings" manage=off
 # yabai -m rule --add label="GoldenDict" app="GoldenDict" manage=off space=main
@@ -62,7 +62,7 @@ yabai -m rule --add label="System Preferences" app="^System Preferences$" manage
 # yabai -m rule --add label="Telegram" app="Telegram" manage=off space=main
 # yabai -m rule --add label="VirtualBox" app="^VirtualBox$" manage=off
 # yabai -m rule --add label="VMware Fusion" app="^VMware Fusion$" manage=off space=main
-yabai -m rule --add app="^WeChat$" manage=off
+# yabai -m rule --add app="^WeChat$" manage=off
 yabai -m rule --add app="^Clash for Windows$" manage=off
 # yabai -m rule --add app="^DataGrip$" split-child="second_child" manage=off
 # yabai -m rule --add label="Zotero" app="^Zotero$" manage=off space=main
